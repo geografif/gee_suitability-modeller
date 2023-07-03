@@ -1,5 +1,6 @@
 //============================================================================================================
 // Title: Rasterize city/regency administrative-based variables: Human Development Index & Minimum Wage
+// Category: Variable
 // Author: M. Afif Fauzan
 // Date: 3 Jul 2023
 //============================================================================================================
