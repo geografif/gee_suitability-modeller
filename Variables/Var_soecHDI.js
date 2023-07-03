@@ -13,7 +13,7 @@ Map.centerObject(aoi_idn);
 var HDI = ee.Image('projects/ee-afiffauzan/assets/soecHDI');
 
 // DISPLAY
-Map.addLayer(minWage, {
+Map.addLayer(HDI, {
   min: 34,
   max: 90,
   palette: ['EE2E31', 'F4C095', '679289', '1D7874', '071E22']
